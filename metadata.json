@@ -1,0 +1,6 @@
+{
+  "name": "Developer X - Modern Portfolio (ID/EN)",
+  "description": "High-performance developer portfolio with dual-language support (Indonesian & English), modern anime-inspired motion transitions, and interactive project showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
